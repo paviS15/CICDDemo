@@ -1,0 +1,16 @@
+﻿{
+  "Name": "EmptyEmail",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "7dcMQT6bk0iEEGeZQxNMDg",
+  "Reference": "LnX3nN9GCEWS2Ehb_sn_hA/7dcMQT6bk0iEEGeZQxNMDg",
+  "ParentRef": "LnX3nN9GCEWS2Ehb_sn_hA/zKDuQ_8NwE6nZiumewA5WQ",
+  "Created": "2025-03-27T13:28:36.476207Z",
+  "Updated": "2025-03-27T13:30:08.745667Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

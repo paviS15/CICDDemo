@@ -1,0 +1,16 @@
+﻿{
+  "Name": "invalidEmailFormat",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "nwRDzx-Zx0SbSxbC_yU3Uw",
+  "Reference": "LnX3nN9GCEWS2Ehb_sn_hA/nwRDzx-Zx0SbSxbC_yU3Uw",
+  "ParentRef": "LnX3nN9GCEWS2Ehb_sn_hA/zKDuQ_8NwE6nZiumewA5WQ",
+  "Created": "2025-03-27T13:55:23.434201Z",
+  "Updated": "2025-03-27T13:57:01.2716716Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "EmptyPassword",
+  "Type": "Element",
+  "TaxonomyType": "Text",
+  "Id": "eQmpXo6zgU-othwIDoLMSw",
+  "Reference": "LnX3nN9GCEWS2Ehb_sn_hA/eQmpXo6zgU-othwIDoLMSw",
+  "ParentRef": "LnX3nN9GCEWS2Ehb_sn_hA/zKDuQ_8NwE6nZiumewA5WQ",
+  "Created": "2025-03-27T13:50:07.3345463Z",
+  "Updated": "2025-03-27T13:51:51.0400277Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
